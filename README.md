@@ -68,6 +68,7 @@ journalctl -u fix-audio-alc245.service
 | Hardware | Kernel | Distro |
 |---|---|---|
 | Minisforum X1 AI Pro | 6.x | Arch Linux |
+| Minisforum X1 AI Pro | 7.x | Ubuntu 26.04 LTS |
 
 If this works on other hardware or distros, feel free to open a PR to expand the table.
 
